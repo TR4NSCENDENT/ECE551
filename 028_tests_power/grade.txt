@@ -1,0 +1,78 @@
+Grading at 09/12/2021:11:02:19.361174
+For commit ID a5101780f973db206a4eaea89dae73812d1bb465
+Grading at Sun Sep 12 19:02:18 CST 2021
+**Testing broken implementation 10 **
+-------------------------------------
+
+0 ^ 0 = 1. Test Pass
+10 ^ 5 = 100000, but test gives 10. Test Fail
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+0 ^ 0 = 1. Test Pass
+10 ^ 5 = 100000, but test gives 32. Test Fail
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+0 ^ 0 = 1. Test Pass
+10 ^ 5 = 100000, but test gives 10. Test Fail
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+0 ^ 0 = 1. Test Pass
+10 ^ 5 = 100000, but test gives 9765625. Test Fail
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+0 ^ 0 = 1, but test gives 0. Test Fail
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+0 ^ 0 = 1. Test Pass
+10 ^ 5 = 100000, but test gives 34464. Test Fail
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+0 ^ 0 = 1. Test Pass
+10 ^ 5 = 100000, but test gives 30240. Test Fail
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+0 ^ 0 = 1. Test Pass
+10 ^ 5 = 100000, but test gives 32. Test Fail
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+0 ^ 0 = 1. Test Pass
+10 ^ 5 = 100000, but test gives 243. Test Fail
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+0 ^ 0 = 1. Test Pass
+10 ^ 5 = 100000, but test gives 50. Test Fail
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+0 ^ 0 = 1. Test Pass
+10 ^ 5 = 100000, but test gives 0. Test Fail
+
+**Testing correct implementation **
+-------------------------------------
+
+0 ^ 0 = 1. Test Pass
+10 ^ 5 = 100000. Test Pass
+
+All tests were ok.
+
+
+Overall Grade: PASSED

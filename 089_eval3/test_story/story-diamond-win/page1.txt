@@ -1,0 +1,14 @@
+2:Go to page 2
+3:Go to page 3
+5:Lose the story
+#
+This story is primarily for testing "Find all wins" when
+there is a "diamond" shape, like this:
+
+   1
+  / \
+  2  3
+   \ /
+    4
+    |
+    W

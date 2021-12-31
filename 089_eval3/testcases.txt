@@ -1,0 +1,8 @@
+#success
+
+cyoa-step2 story1 < test_s1/input1.txt
+cyoa-step2 story1 < test_s1/input2.txt
+
+#error
+cyoa-step2 story1 < test_s1/input1.txt
+

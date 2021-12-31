@@ -1,0 +1,4 @@
+2:no_story
+3:Choose the magic shoes.
+4:Choose the magic toaster.
+#

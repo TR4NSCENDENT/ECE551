@@ -1,0 +1,43 @@
+#success
+
+cyoa-step1 story1/page1.txt
+cyoa-step1 test_s1/page1.txt
+
+cyoa-step3 story1
+cyoa-step3 story2
+cyoa-step3 test/no_win
+cyoa-step3 test/cycle
+cyoa-step3 test/story-diamond-win
+
+cyoa-step4 story1
+cyoa-step4 story2
+cyoa-step4 test/no_win
+cyoa-step4 test/cycle
+cyoa-step4 test/story-diamond-win
+
+#error
+
+cyoa-step1 test_s1/invalid1.txt
+cyoa-step1 test_s1/invalid2.txt
+cyoa-step1 test_s1/invalid3.txt
+cyoa-step1 test_s1/invalid4.txt
+cyoa-step1 test_s1/invalid5.txt
+cyoa-step1 test_s1/invalid6.txt
+cyoa-step1 test_s1/invalid7.txt
+cyoa-step1 test_s1/invalid8.txt
+cyoa-step1 test_s1/overflow.txt
+cyoa-step1 test_s1/page000.txt
+cyoa-step1 test_s1/filename.txt
+
+cyoa-step2 test/broken1
+cyoa-step2 test/broken2
+
+
+
+cyoa-step3 test/broken1
+cyoa-step3 test/broken2
+
+
+cyoa-step4 test/broken1
+cyoa-step4 test/broken2
+

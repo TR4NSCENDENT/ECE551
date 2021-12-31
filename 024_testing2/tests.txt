@@ -1,0 +1,15 @@
+aaaaa bbbbb
+aaaaa bbbba
+aaaab bbbbb
+aaaab bbbba
+aaabb bbbaa
+aabbb bbaaa
+abbbb baaaa
+aabcd bbcde
+abcde abcde
+aaaaa bbbb
+aaaa bbbb
+aaaaa bbbbbb
+abcde
+aaaaa bbbbb ccccc
+Θabcd 12345

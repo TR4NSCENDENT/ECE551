@@ -1,0 +1,5 @@
+2:Try to sneak past the sleeping dragon
+3:Leave the dragon's cave and go home
+4:Missing page
+#
+You encounter a dragon.
